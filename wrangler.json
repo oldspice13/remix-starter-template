@@ -1,5 +1,5 @@
 {
-  "name": "remixapp2",
+  "name": "remix-starter-template",
   "compatibility_date": "2025-04-01",
   "main": "./server.ts",
   "assets": {
